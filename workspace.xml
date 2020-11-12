@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a713f50a-e495-403f-98cc-fbaf0b29b56e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikX7IA9RTuEtZw6hI5Bvwv4Ntw" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Index1.html">
+    <configuration name="Index1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/job/Index1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/job/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Index1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a713f50a-e495-403f-98cc-fbaf0b29b56e" name="Default Changelist" comment="" />
+      <created>1602452394428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602452394428</updated>
+      <workItem from="1602452395726" duration="4070000" />
+      <workItem from="1602456651556" duration="433000" />
+      <workItem from="1602537072070" duration="12628000" />
+      <workItem from="1602610552235" duration="261000" />
+      <workItem from="1602610814774" duration="475000" />
+      <workItem from="1602611306070" duration="6523000" />
+      <workItem from="1602622288383" duration="7197000" />
+      <workItem from="1603229657110" duration="7852000" />
+      <workItem from="1603282265502" duration="4237000" />
+      <workItem from="1603307280728" duration="11444000" />
+      <workItem from="1603567460963" duration="5295000" />
+      <workItem from="1603709017078" duration="19504000" />
+      <workItem from="1603993654678" duration="8696000" />
+      <workItem from="1604264444709" duration="17943000" />
+      <workItem from="1604693015981" duration="19186000" />
+      <workItem from="1605121853425" duration="26490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="759" y="304" key="#Web_Browsers" timestamp="1602456508788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="304" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1602456508788" />
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602456511145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602456511145" />
+    <state x="960" y="201" key="FileChooserDialogImpl" timestamp="1602610811773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602553400875" />
+    <state x="960" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602610811773" />
+    <state x="460" y="164" width="1050" height="708" key="SettingsEditor" timestamp="1603995077746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="113" y="15" width="1050" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602555609780" />
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603995077746" />
+    <state x="598" y="245" width="623" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1602553403750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="598" y="245" width="623" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1602553403750" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605140324791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605140324791" />
+  </component>
+</project>
